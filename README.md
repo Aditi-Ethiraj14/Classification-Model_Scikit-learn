@@ -96,7 +96,12 @@ Example results after training:
 
 | Model    | Accuracy | Precision | Recall  | F1 Score |
 |----------|----------|-----------|---------|----------|
-| XGBoost  | 0.8798   | 0.7879    | 0.6668  | 0.7223   |
+| XGBoost  | 0.8790   | 0.7915    | 0.6766  | 0.7296   |
+
+<img width="307" height="166" alt="image" src="https://github.com/user-attachments/assets/b61dd935-9f6e-4803-a727-bcec93286d3c" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/bf89e882-95c8-4d58-aebe-d957ddafda4e" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/13b6a385-72b1-445e-935a-e7f60b2e1a68" />
+
 
 ---
 
